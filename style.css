@@ -1,0 +1,66 @@
+*{
+    margin: 0; padding: 0;
+}
+header{
+    height: 100px;
+}
+nav{
+    background-color: gray;
+    height: 50px;
+}
+p{
+    text-align: center;
+    width:50%;  margin:0 auto;
+}
+div{
+    width: 200px;
+    margin: 0;
+    padding: 0;
+}
+a{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Sarabun', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-decoration-line:none;
+}
+#img-codoAcodo{
+    margin: 10px;
+}
+.logo_html{
+    margin-top: 10px;
+    margin-left: 25%;
+    margin-bottom: 10px;
+}
+.logo_css{
+    margin-left: 25%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.rigth {
+    float: right;
+    margin: 15px;
+}
+.font-p{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Sarabun', sans-serif;
+}
+.navbar__item {
+    display: inline-block;
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    padding-top: 7px;
+}
+.logo_html{
+    width: 100px;
+    height: 100px;
+}
+.logo_css{
+    width: 100px;
+    height: 100px;
+}
+.footer{
+    height: 50px;
+    background-color: gray;
+}
